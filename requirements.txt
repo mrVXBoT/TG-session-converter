@@ -1,14 +1,2 @@
-# Required dependencies
-telethon>=1.24.0
-pyrogram>=2.0.0
-tgcrypto>=1.2.3
-
-# Optional dependencies for enhanced features
-colorama>=0.4.4
-tqdm>=4.64.0
-nest_asyncio>=1.5.5
-stream-sqlite>=0.0.3
-
-# Development dependencies (not required for regular use)
-# pytest>=7.0.0
-# black>=22.3.0 
+telethon==1.36.0
+pyrogram==2.0.106
