@@ -1,0 +1,6 @@
+16208243
+a72ed8b5f6475a644c61f54ff367c1f6
+# This file contains your Telegram API credentials
+# First line: API ID (integer)
+# Second line: API Hash (string)
+# Created: 2023-10-21 

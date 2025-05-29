@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/mrVXBoT/TG-session-converter.git
+git clone https://github.com/yourusername/TGSessionsConverter.git
 
 # Navigate to the project directory
 cd TGSessionsConverter
